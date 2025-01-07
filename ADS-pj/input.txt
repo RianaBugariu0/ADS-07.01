@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog. 
+This is a sample text file that we can use to test our pattern matching algorithm.
+We can search for multiple patterns in this text simultaneously using the Aho-Corasick algorithm.
+The algorithm is efficient and can find all occurrences of multiple patterns in a text. 
